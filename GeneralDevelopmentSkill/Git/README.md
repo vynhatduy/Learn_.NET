@@ -5,10 +5,10 @@
 ---
 - Git sẽ coi thông tin được lưu trữ là một tập hợp các snapshot; mỗi khi "commit" sẽ tạo ra một snapshot tại thời điểm đó.
 - Lợi ích của sử dụng git:
--- Dễ sử dụng, thao tác nhanh gọn và an toàn.
--- Cho phép phân nhánh và hợp nhất các nhanh lại với nhau.
--- Có thể làm việc ở bất kì đầu bằng việc clone mã nguồn từ kho và cập nhật lại thay đổi mới nhất.
--- Deployment sản phẩm dễ dàng.
+** Dễ sử dụng, thao tác nhanh gọn và an toàn.
+** Cho phép phân nhánh và hợp nhất các nhanh lại với nhau.
+** Có thể làm việc ở bất kì đầu bằng việc clone mã nguồn từ kho và cập nhật lại thay đổi mới nhất.
+** Deployment sản phẩm dễ dàng.
 ---
 ## Các thuật ngữ quan trọng
 1. Branch (nhánh)
